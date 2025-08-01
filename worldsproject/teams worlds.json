@@ -1,0 +1,26 @@
+{
+    "T1": {
+        "id": 126061,
+        "name": "T1"
+    },
+    "FlyQuest": {
+        "id": 311,
+        "name": "FlyQuest"
+    },
+    "Bilibili Gaming": {
+        "id": 1566,
+        "name": "Bilibili Gaming"
+    },
+    "Gen.G": {
+        "id": 2882,
+        "name": "Gen.G"
+    },
+    "G2 Esports": {
+        "id": 88,
+        "name": "G2 Esports"
+    },
+    "CTBC Flying Oyster": {
+        "id": 130355,
+        "name": "CTBC Flying Oyster"
+    }
+}
